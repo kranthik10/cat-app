@@ -10,6 +10,10 @@ It supports:
 - showing a score for each cat
 - deleting an uploaded cat image
 
+## Demo
+
+Screen recording: [demo_recording.mp4](./demo_recording.mp4)
+
 ## Tech Stack
 
 - Expo SDK 55
