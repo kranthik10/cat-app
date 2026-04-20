@@ -12,7 +12,9 @@ It supports:
 
 ## Demo
 
-Screen recording: [demo_recording.mp4](./demo_recording.mp4)
+Screen recording: 
+
+https://github.com/user-attachments/assets/c2397707-5667-49b2-8e18-674bae048db4
 
 ## Tech Stack
 
